@@ -30,7 +30,7 @@ Running on:
 
 ## Learned postional encoding over time
 Positional encoding (PCA to 2D) over time.
-![learned](gigs/learned-20d-pca.gif)
+![learned](gifs/learned-20d-pca.gif)
 
 ## dot product / cosine similarity
 ![attention_random](imgs/attention_random.png)
